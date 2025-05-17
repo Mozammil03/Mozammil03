@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 
 ---
 
-- 🔭 I’m currently working on:  
+-  I’m currently working on:  
   A full-stack **Job Portal** using Spring Boot, React, PostgreSQL, and Spring Security. I'm doing my best to apply what I’m learning, and I’m excited to keep improving.
 
-- 🌱 I’m currently learning:  
+-  I’m currently learning:  
   Real-world application development with **Spring Boot**, **React**, **APIs**, and **deployment practices** on **AWS**.  
   I’m also working to strengthen my **DSA** and **Java fundamentals**.
 
-- 👯 I’m looking to collaborate on:  
+-  I’m looking to collaborate on:  
   Any **open-source** or **beginner-friendly projects** where I can learn and contribute with guidance. I’m open to internships, mentorships, or remote shadowing roles.
 
 - 🤔 I’m looking for help with:  
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about:  
   How I’m trying to build full-stack apps, what I’ve learned in Spring Boot + React, or how I turned curiosity into working projects!
 
-- 📫 How to reach me:  
+-  How to reach me:  
   [mozammil4747@gmail.com](mailto:mozammil4747@gmail.com)  
   [GitHub Profile](https://github.com/Mozammil03)
 
