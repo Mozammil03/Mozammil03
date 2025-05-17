@@ -77,7 +77,7 @@ A Python + OpenCV project that detects vacant parking slots from camera feeds an
 
 ---
 
-> 💭 I know I’m just getting started, but I’m **motivated, hardworking**, and always ready to **learn something new**.  
+> 💭I’m **motivated, hardworking**, and always ready to **learn something new**.  
 > If you’re working on a project or know one where a beginner can grow — I’d love to join, contribute, and get trained under your guidance. 🙏
 
 📧 [mozammil4747@gmail.com](mailto:mozammil4747@gmail.com)  
